@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+
+div.header h1 {
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(201, 3, 3);
+    color: rgba(2, 194, 2, 0.795);
+    text-decoration: underline rgba(245, 245, 245, 0.966);
+    text-transform: uppercase;
+    font-size: 70px;
+    font-family: 'Rubik Gemstones',cursive;
+    text-shadow: 2px 2px 2px black;
+}
+
+div.header h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+}
+
+div.body > ul > li.item2 {
+    font-family: 'Kanit', sans-serif;
+}
+
+div.paragraphs p.text-center {
+    text-align: center;
+    
+}
+
+div.paragraphs p.text-left {
+    text-align: left;
+}
+
+div.paragraphs p.text-right {
+    text-align: right;
+}
+
+div.paragraphs p.text-justifyed {
+    text-align: justify;
+}
+
